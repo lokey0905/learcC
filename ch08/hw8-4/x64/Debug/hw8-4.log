@@ -1,0 +1,4 @@
+﻿  hw8-4.c
+C:\Users\09634\Desktop\USA\cProgram\example\ch08\hw8-4\hw8-4.c(14,12): warning C4101: 'ilen': 未參考的區域變數
+C:\Users\09634\Desktop\USA\cProgram\example\ch08\hw8-4\hw8-4.c(13,8): warning C4101: 'pc': 未參考的區域變數
+  hw8-4.vcxproj -> C:\Users\09634\Desktop\USA\cProgram\example\ch08\x64\Debug\hw8-4.exe

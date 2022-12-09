@@ -1,0 +1,5 @@
+﻿  prog8-4.c
+c:\course\program\source\example\ch08\prog8-4\prog8-4.c(8): warning C4133: '=': 不相容的類型 - 從 'float *' 至 'int *'
+c:\course\program\source\example\ch08\prog8-4\prog8-4.c(9): warning C4133: '=': 不相容的類型 - 從 'int *' 至 'float *'
+  prog8-4.vcxproj -> C:\course\program\source\example\ch08\Debug\prog8-4.exe
+  prog8-4.vcxproj -> C:\course\program\source\example\ch08\Debug\prog8-4.pdb (Full PDB)

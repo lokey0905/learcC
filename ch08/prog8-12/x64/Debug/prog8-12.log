@@ -1,0 +1,4 @@
+﻿  prog8-12.c
+d:\course\program\source\forstudentexample\ch08\prog8-12\prog8-12.c(16): warning C4013: 'system' 未定義; 假設 extern 傳回整數
+d:\course\program\source\forstudentexample\ch08\prog8-12\prog8-12.c(15): warning C4477: 'printf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 2 的類型為 'int *'
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppCommon.targets(356,5): error MSB6006: "CL.exe" 以返回碼 1 結束。

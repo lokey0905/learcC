@@ -1,0 +1,5 @@
+﻿  exec7-18.c
+C:\Users\09634\Desktop\USA\cProgram\example\ch07\exec7-18\exec7-18.c(6,13): warning C4028: 型式參數 1 與來自宣告的不同
+C:\Users\09634\Desktop\USA\cProgram\example\ch07\exec7-18\exec7-18.c(6,35): warning C4029: 在函式宣告和函式定義中的型式參數清單不同
+C:\Users\09634\Desktop\USA\cProgram\example\ch07\exec7-18\exec7-18.c(21,6): warning C4101: 'i': 未參考的區域變數
+  exec7-18.vcxproj -> C:\Users\09634\Desktop\USA\cProgram\example\ch07\x64\Debug\exec7-18.exe

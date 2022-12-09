@@ -1,0 +1,3 @@
+﻿  prog9-6.c
+C:\Users\09634\Desktop\USA\cProgram\example\ch09\prog9-6\prog9-6.c(22,52): warning C4013: 'gets' 未定義; 假設 extern 傳回整數
+  prog9-6.vcxproj -> C:\Users\09634\Desktop\USA\cProgram\example\ch09\Debug\prog9-6.exe

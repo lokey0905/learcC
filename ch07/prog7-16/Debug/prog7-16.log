@@ -1,0 +1,5 @@
+﻿  prog7-16.c
+c:\course\program\source\example\ch07\prog7-16\prog7-16.c(20): warning C4474: 'printf': 傳遞給格式字串的引數太多
+  c:\course\program\source\example\ch07\prog7-16\prog7-16.c(20): note: 預留位置及其參數需要 0 個 variadic 引數，但卻提供了 1 個
+  prog7-16.vcxproj -> C:\course\program\source\example\ch07\Debug\prog7-16.exe
+  prog7-16.vcxproj -> C:\course\program\source\example\ch07\Debug\prog7-16.pdb (Full PDB)

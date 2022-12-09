@@ -1,0 +1,4 @@
+﻿  prog7-24.c
+c:\course\program\source\example\ch07\prog7-24\prog7-24.c(6): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  prog7-24.vcxproj -> C:\course\program\source\example\ch07\Debug\prog7-24.exe
+  prog7-24.vcxproj -> C:\course\program\source\example\ch07\Debug\prog7-24.pdb (Full PDB)

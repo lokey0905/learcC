@@ -1,0 +1,5 @@
+﻿  hw8-1.c
+C:\Users\09634\Desktop\USA\cProgram\example\ch08\hw8-1\hw8-1.c(26,27): warning C4552: '/': 未使用運算式結果
+C:\Users\09634\Desktop\USA\cProgram\example\ch08\hw8-1\hw8-1.c(14): warning C4716: 'Factor': 必須傳回值
+C:\Users\09634\Desktop\USA\cProgram\example\ch08\hw8-1\hw8-1.c(21): warning C4716: 'Power': 必須傳回值
+  hw8-1.vcxproj -> C:\Users\09634\Desktop\USA\cProgram\example\ch08\x64\Debug\hw8-1.exe

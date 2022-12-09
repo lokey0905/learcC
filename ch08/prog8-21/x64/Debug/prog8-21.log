@@ -1,0 +1,4 @@
+﻿  prog8-21.c
+d:\course\program\source\forstudentexample\ch08\prog8-21\prog8-21.c(14): warning C4013: 'gets' 未定義; 假設 extern 傳回整數
+  prog8-21.vcxproj -> D:\course\program\source\forStudentExample\ch08\x64\Debug\prog8-21.exe
+  prog8-21.vcxproj -> D:\course\program\source\forStudentExample\ch08\x64\Debug\prog8-21.pdb (Full PDB)

@@ -1,0 +1,5 @@
+﻿  prog8-12.c
+c:\course\program\source\example\ch08\prog8-12\prog8-12.c(16): warning C4013: 'system' 未定義; 假設 extern 傳回整數
+c:\course\program\source\example\ch08\prog8-12\prog8-12.c(8): warning C4172: 傳回區域變數或暫存的位址: m
+  prog8-12.vcxproj -> C:\course\program\source\example\ch08\Debug\prog8-12.exe
+  prog8-12.vcxproj -> C:\course\program\source\example\ch08\Debug\prog8-12.pdb (Full PDB)

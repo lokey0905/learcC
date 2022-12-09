@@ -1,0 +1,4 @@
+﻿  exec8-12.c
+C:\Users\09634\Desktop\USA\cProgram\example\ch08\exec8-12.c\exec8-12.c(18,2): warning C4013: 'system' 未定義; 假設 extern 傳回整數
+C:\Users\09634\Desktop\USA\cProgram\example\ch08\exec8-12.c\exec8-12.c(9): warning C4172: 傳回區域變數或暫存的位址: m
+  exec8-12.c.vcxproj -> C:\Users\09634\Desktop\USA\cProgram\example\ch08\x64\Debug\exec8-12.exe

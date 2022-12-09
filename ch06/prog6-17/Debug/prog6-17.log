@@ -1,0 +1,4 @@
+﻿  prog6-17.c
+c:\course\program\source\forstudentexample2017\ch06\prog6-17\prog6-17.c(7): warning C4101: 'x': 未參考的區域變數
+  prog6-17.vcxproj -> C:\course\program\source\forStudentExample2017\ch06\Debug\prog6-17.exe
+  prog6-17.vcxproj -> C:\course\program\source\forStudentExample2017\ch06\Debug\prog6-17.pdb (Partial PDB)

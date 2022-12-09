@@ -1,0 +1,4 @@
+﻿  hw5-6.c
+C:\Users\09634\Desktop\USA\cProgram\example\ch05\hw5-6\hw5-6.c(7,18): warning C4013: 'time' 未定義; 假設 extern 傳回整數
+C:\Users\09634\Desktop\USA\cProgram\example\ch05\hw5-6\hw5-6.c(10,33): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  hw5-6.vcxproj -> C:\Users\09634\Desktop\USA\cProgram\example\ch05\Debug\hw5-6.exe

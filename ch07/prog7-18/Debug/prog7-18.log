@@ -1,0 +1,15 @@
+﻿已經開始建置於 2016/9/24 下午 12:55:19。
+     1>節點 2 (Build 目標) 上的專案 "H:\course\program\source\example\ch07\prog7-18\prog7-18.vcxproj"。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:prompt "prog7-18.c"
+         prog7-18.c
+     1>h:\course\program\source\example\ch07\prog7-18\prog7-18.c(25): warning C4474: 'printf': 傳遞給格式字串的引數太多
+         h:\course\program\source\example\ch07\prog7-18\prog7-18.c(25): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"H:\course\program\source\example\ch07\Debug\prog7-18.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"H:\course\program\source\example\ch07\Debug\prog7-18.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"H:\course\program\source\example\ch07\Debug\prog7-18.lib" /MACHINE:X86 "Debug\prog7-18.obj"
+         prog7-18.vcxproj -> H:\course\program\source\example\ch07\Debug\prog7-18.exe
+     1>專案 "H:\course\program\source\example\ch07\prog7-18\prog7-18.vcxproj" (Build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:04.26

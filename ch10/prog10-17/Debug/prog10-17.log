@@ -1,0 +1,4 @@
+﻿  prog10-17.c
+c:\course\program\source\forstudentexample\ch10\prog10-17\prog10-17.c(7): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  prog10-17.vcxproj -> C:\course\program\source\forStudentExample\ch10\Debug\prog10-17.exe
+  prog10-17.vcxproj -> C:\course\program\source\forStudentExample\ch10\Debug\prog10-17.pdb (Full PDB)

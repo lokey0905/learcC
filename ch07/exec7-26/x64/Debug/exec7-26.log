@@ -1,0 +1,11 @@
+﻿  exec7-26.c
+G:\CProgram\example\ch07\exec7-26\exec7-26.c(17,17): warning C4013: 'WinLoss' 未定義; 假設 extern 傳回整數
+G:\CProgram\example\ch07\exec7-26\exec7-26.c(18,11): warning C4013: 'ShowMsg' 未定義; 假設 extern 傳回整數
+  fshowcps.c
+G:\CProgram\example\ch07\exec7-26\fshowcps.c(2,20): warning C4013: 'printf' 未定義; 假設 extern 傳回整數
+  fshowmsg.c
+G:\CProgram\example\ch07\exec7-26\fshowmsg.c(2,8): warning C4013: 'printf' 未定義; 假設 extern 傳回整數
+G:\CProgram\example\ch07\exec7-26\fshowmsg.c(2,29): warning C4013: 'ShowCPS' 未定義; 假設 extern 傳回整數
+  fwinloss.c
+  正在產生程式碼...
+  exec7-26.vcxproj -> G:\CProgram\example\ch07\x64\Debug\exec7-26.exe

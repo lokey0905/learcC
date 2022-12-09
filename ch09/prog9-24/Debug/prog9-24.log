@@ -1,0 +1,13 @@
+﻿已經開始建置於 2016/10/14 下午 09:11:35。
+     1>節點 2 (Build 目標) 上的專案 "I:\course\program\source\example\ch09\prog9-24\prog9-24.vcxproj"。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:prompt "prog9-24.c"
+         prog9-24.c
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"I:\course\program\source\example\ch09\Debug\prog9-24.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"I:\course\program\source\example\ch09\Debug\prog9-24.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"I:\course\program\source\example\ch09\Debug\prog9-24.lib" /MACHINE:X86 "Debug\prog9-24.obj"
+         prog9-24.vcxproj -> I:\course\program\source\example\ch09\Debug\prog9-24.exe
+     1>專案 "I:\course\program\source\example\ch09\prog9-24\prog9-24.vcxproj" (Build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:04.08

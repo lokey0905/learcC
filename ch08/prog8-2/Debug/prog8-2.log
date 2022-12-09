@@ -1,0 +1,4 @@
+﻿  prog8-2.c
+c:\course\program\source\example\ch08\prog8-2\prog8-2.c(8): warning C4129: '&': 無法辨識的字元逸出序列
+  prog8-2.vcxproj -> C:\course\program\source\example\ch08\Debug\prog8-2.exe
+  prog8-2.vcxproj -> C:\course\program\source\example\ch08\Debug\prog8-2.pdb (Full PDB)

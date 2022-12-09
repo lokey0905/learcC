@@ -1,0 +1,11 @@
+﻿  exec4-12.c
+C:\Users\09634\Desktop\USA\cProgram\example\ch04\exec4-12.c\exec4-12.c(12,10): warning C4473: 'printf' : 傳遞給格式字串的引數不足
+C:\Users\09634\Desktop\USA\cProgram\example\ch04\exec4-12.c\exec4-12.c(12,10): message : 預留位置及其參數需要 2 個 variadic 引數，但卻提供了 0 個
+C:\Users\09634\Desktop\USA\cProgram\example\ch04\exec4-12.c\exec4-12.c(12,10): message : 缺少 variadic 引數 1 (其為格式字串 '%d' 所需)
+C:\Users\09634\Desktop\USA\cProgram\example\ch04\exec4-12.c\exec4-12.c(16,10): warning C4473: 'printf' : 傳遞給格式字串的引數不足
+C:\Users\09634\Desktop\USA\cProgram\example\ch04\exec4-12.c\exec4-12.c(16,10): message : 預留位置及其參數需要 2 個 variadic 引數，但卻提供了 0 個
+C:\Users\09634\Desktop\USA\cProgram\example\ch04\exec4-12.c\exec4-12.c(16,10): message : 缺少 variadic 引數 1 (其為格式字串 '%d' 所需)
+C:\Users\09634\Desktop\USA\cProgram\example\ch04\exec4-12.c\exec4-12.c(20,10): warning C4473: 'printf' : 傳遞給格式字串的引數不足
+C:\Users\09634\Desktop\USA\cProgram\example\ch04\exec4-12.c\exec4-12.c(20,10): message : 預留位置及其參數需要 2 個 variadic 引數，但卻提供了 0 個
+C:\Users\09634\Desktop\USA\cProgram\example\ch04\exec4-12.c\exec4-12.c(20,10): message : 缺少 variadic 引數 1 (其為格式字串 '%d' 所需)
+  exec4-12.c.vcxproj -> C:\Users\09634\Desktop\USA\cProgram\example\ch04\Debug\exec4-12.exe

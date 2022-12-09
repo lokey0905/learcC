@@ -1,0 +1,3 @@
+﻿  exec6-1.c
+C:\Users\09634\Desktop\USA\cProgram\example\ch06\exec-\exec6-1.c(8,6): warning C4101: 'iStatus': 未參考的區域變數
+  exec-.vcxproj -> C:\Users\09634\Desktop\USA\cProgram\example\ch06\Debug\exec6-1.exe

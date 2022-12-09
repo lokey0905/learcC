@@ -1,0 +1,5 @@
+﻿  hw8-6.c
+C:\Users\09634\Desktop\USA\cProgram\example\ch08\hw8-6\hw8-6.c(15,36): warning C4778: 'printf' : 未結束的格式字串 '%'
+C:\Users\09634\Desktop\USA\cProgram\example\ch08\hw8-6\hw8-6.c(21,36): warning C4778: 'printf' : 未結束的格式字串 '%'
+C:\Users\09634\Desktop\USA\cProgram\example\ch08\hw8-6\hw8-6.c(27,36): warning C4778: 'printf' : 未結束的格式字串 '%'
+  hw8-6.vcxproj -> C:\Users\09634\Desktop\USA\cProgram\example\ch08\x64\Debug\hw8-6.exe

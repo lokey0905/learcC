@@ -1,0 +1,5 @@
+﻿  prog8-22.c
+c:\course\program\source\example\ch08\prog8-22\prog8-22.c(10): warning C4013: 'strlen' 未定義; 假設 extern 傳回整數
+c:\course\program\source\example\ch08\prog8-22\prog8-22.c(9): warning C4101: 'i': 未參考的區域變數
+  prog8-22.vcxproj -> C:\course\program\source\example\ch08\Debug\prog8-22.exe
+  prog8-22.vcxproj -> C:\course\program\source\example\ch08\Debug\prog8-22.pdb (Full PDB)

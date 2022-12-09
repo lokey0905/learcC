@@ -1,0 +1,4 @@
+﻿  exec9-15.c
+C:\Users\09634\Desktop\USA\cProgram\example\ch09\exec9-15\exec9-15.c(15,2): warning C4013: 'strcpy' 未定義; 假設 extern 傳回整數
+C:\Users\09634\Desktop\USA\cProgram\example\ch09\exec9-15\exec9-15.c(24,7): warning C4101: 'ch': 未參考的區域變數
+  exec9-15.vcxproj -> C:\Users\09634\Desktop\USA\cProgram\example\ch09\Debug\exec9-15.exe

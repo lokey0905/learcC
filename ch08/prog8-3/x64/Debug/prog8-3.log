@@ -1,0 +1,19 @@
+﻿  prog8-3.c
+d:\course\program\source\forstudentexample\ch08\prog8-3\prog8-3.c(11): warning C4477: 'printf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 1 的類型為 'std::size_t'
+  d:\course\program\source\forstudentexample\ch08\prog8-3\prog8-3.c(11): note: 請考慮在格式字串中使用 '%zd'
+d:\course\program\source\forstudentexample\ch08\prog8-3\prog8-3.c(11): warning C4477: 'printf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 2 的類型為 'std::size_t'
+  d:\course\program\source\forstudentexample\ch08\prog8-3\prog8-3.c(11): note: 請考慮在格式字串中使用 '%zd'
+d:\course\program\source\forstudentexample\ch08\prog8-3\prog8-3.c(12): warning C4477: 'printf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 1 的類型為 'std::size_t'
+  d:\course\program\source\forstudentexample\ch08\prog8-3\prog8-3.c(12): note: 請考慮在格式字串中使用 '%zd'
+d:\course\program\source\forstudentexample\ch08\prog8-3\prog8-3.c(12): warning C4477: 'printf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 2 的類型為 'std::size_t'
+  d:\course\program\source\forstudentexample\ch08\prog8-3\prog8-3.c(12): note: 請考慮在格式字串中使用 '%zd'
+d:\course\program\source\forstudentexample\ch08\prog8-3\prog8-3.c(13): warning C4477: 'printf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 1 的類型為 'std::size_t'
+  d:\course\program\source\forstudentexample\ch08\prog8-3\prog8-3.c(13): note: 請考慮在格式字串中使用 '%zd'
+d:\course\program\source\forstudentexample\ch08\prog8-3\prog8-3.c(13): warning C4477: 'printf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 2 的類型為 'std::size_t'
+  d:\course\program\source\forstudentexample\ch08\prog8-3\prog8-3.c(13): note: 請考慮在格式字串中使用 '%zd'
+d:\course\program\source\forstudentexample\ch08\prog8-3\prog8-3.c(14): warning C4477: 'printf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 1 的類型為 'std::size_t'
+  d:\course\program\source\forstudentexample\ch08\prog8-3\prog8-3.c(14): note: 請考慮在格式字串中使用 '%zd'
+d:\course\program\source\forstudentexample\ch08\prog8-3\prog8-3.c(14): warning C4477: 'printf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 2 的類型為 'std::size_t'
+  d:\course\program\source\forstudentexample\ch08\prog8-3\prog8-3.c(14): note: 請考慮在格式字串中使用 '%zd'
+  prog8-3.vcxproj -> D:\course\program\source\forStudentExample\ch08\x64\Debug\prog8-3.exe
+  prog8-3.vcxproj -> D:\course\program\source\forStudentExample\ch08\x64\Debug\prog8-3.pdb (Full PDB)
