@@ -1,0 +1,5 @@
+﻿  exec10-9.c
+C:\Users\09634\Desktop\USA\cProgram\example\ch10\exec10-9\exec10-9.c(19,14): warning C4013: 'getch' 未定義; 假設 extern 傳回整數
+C:\Users\09634\Desktop\USA\cProgram\example\ch10\exec10-9\exec10-9.c(12,9): warning C4101: 'len': 未參考的區域變數
+C:\Users\09634\Desktop\USA\cProgram\example\ch10\exec10-9\exec10-9.c(12,6): warning C4101: 'i': 未參考的區域變數
+  exec10-9.vcxproj -> C:\Users\09634\Desktop\USA\cProgram\example\ch10\Debug\exec10-9.exe

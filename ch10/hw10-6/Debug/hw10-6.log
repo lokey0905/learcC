@@ -1,0 +1,3 @@
+﻿  hw10-6.c
+C:\Users\09634\Desktop\USA\cProgram\example\ch10\hw10-6\hw10-6.c(23,2): warning C4013: 'gets' 未定義; 假設 extern 傳回整數
+  hw10-6.vcxproj -> C:\Users\09634\Desktop\USA\cProgram\example\ch10\Debug\hw10-6.exe
