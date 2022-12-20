@@ -1,2 +1,4 @@
 ﻿  hw10-3.c
+C:\Users\09634\Desktop\USA\cProgram\example\ch10\hw10-3\hw10-3.c(18,11): warning C4101: 'ilen': 未參考的區域變數
+C:\Users\09634\Desktop\USA\cProgram\example\ch10\hw10-3\hw10-3.c(13,8): warning C4101: 'pfile': 未參考的區域變數
   hw10-3.vcxproj -> C:\Users\09634\Desktop\USA\cProgram\example\ch10\Debug\hw10-3.exe
